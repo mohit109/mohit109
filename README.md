@@ -85,30 +85,34 @@ I operate at the intersection of **large language models**, **agentic AI framewo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit109&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit109&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit109&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit109&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em"/>
 
----
+</div>
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit109&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=mohit109&theme=tokyonight-duo&hide_border=true&border_radius=10&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
----
+</div>
 
-## 📈 Contribution Graph
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit109&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohit109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit109&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6e6e&area=true&area_color=1f6feb" alt="Contribution Graph" />
+</div>
 
 ---
 
