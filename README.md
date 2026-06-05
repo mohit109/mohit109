@@ -86,32 +86,44 @@ I operate at the intersection of **large language models**, **agentic AI framewo
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit109&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit109&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=mohit109&theme=tokyonight-duo&hide_border=true&border_radius=10&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
 </div>
 
 <br/>
 
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mohit109&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&custom_title=Mohit's%20GitHub%20Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit109&layout=donut&langs_count=8&theme=radical&hide_border=true&border_radius=15&custom_title=Most%20Used%20Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-### 📈 Contribution Graph
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohit109&theme=radical&hide_border=true&border_radius=15&background=141321&stroke=fe428e&ring=fe428e&fire=ffa657&currStreakLabel=fe428e&sideLabels=a9fef7&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit109&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6e6e&area=true&area_color=1f6feb" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohit109&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit109&theme=rogue-panda&hide_border=true&area=true&custom_title=Mohit's%20Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=footer" width="100%"/>
 </div>
 
 ---
