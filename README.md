@@ -83,16 +83,6 @@ I operate at the intersection of **large language models**, **agentic AI framewo
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Project Details | Tech Stack |
-|---------|----------------|------------|
-| [**Project 1**](#) | Brief description of your most impactful project and what problem it solves | `Python` `AWS` `Docker` |
-| [**Project 2**](#) | Brief description of another great project with key highlights | `Node.js` `PostgreSQL` `Redis` |
-| [**Project 3**](#) | Brief description showcasing your full-stack or data engineering skills | `React` `TypeScript` `MongoDB` |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
