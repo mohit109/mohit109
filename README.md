@@ -1,24 +1,47 @@
 <h1 align="center">Hi, I'm Mohit 💻</h1>
 
 <p align="center">
-  <em>"Building scalable systems, one commit at a time."</em>
+  <em>"Building intelligent systems that scale — one model at a time."</em>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohit109&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohit109?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat&logo=handshake&logoColor=white" alt="Open to Collaborate" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-I am a passionate **Software Engineer** who loves building high-performance applications and solving complex engineering problems. I thrive at the intersection of clean code and innovative solutions.
+I am a **Data Scientist** specializing in building **scalable AI systems in production**. I work across the full ML lifecycle — from research and experimentation to deploying robust pipelines that serve real-world traffic at scale.
 
-🎯 **Current Focus:**
-- Mastering **System Design** and scalable architectures
-- Exploring **Cloud-Native** development with AWS & Docker
-- Deep-diving into **Backend Engineering** & API design
+I operate at the intersection of **large language models**, **agentic AI frameworks**, and **cloud infrastructure** — turning cutting-edge research into reliable, production-grade systems.
+
+🎯 **Current Focus**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 LLMs in production</b><br/>
+      <sub>Fine-tuning, RAG, evaluation pipelines</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🕸️ Agentic AI frameworks</b><br/>
+      <sub>LangChain, LangGraph, AutoGen, CrewAI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>☁️ Multi-cloud MLOps</b><br/>
+      <sub>AWS, Azure, GCP — scalable ML infra</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>⚡ Scalable AI systems</b><br/>
+      <sub>Distributed training, serving, monitoring</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
