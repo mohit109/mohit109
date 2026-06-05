@@ -74,6 +74,33 @@ I operate at the intersection of **large language models**, **agentic AI framewo
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+<p align="center">Here are some 🦜 parrots 😊 :</p>
+
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/goparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/fiestparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hmmparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sleepyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/starwarparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/explodyparrot.gif" width="35" height="35"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
