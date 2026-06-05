@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mohit 💻</h1>
+<h1 align="center">Hi, I'm Mohit  💻</h1>
 
 <p align="center">
-  <em>"Building intelligent systems that scale — one model at a time."</em>
+  <em>"Building intelligent AI systems that scale — one model at a time."</em>
 </p>
 
 <p align="center">
