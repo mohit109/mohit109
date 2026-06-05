@@ -80,25 +80,57 @@ I operate at the intersection of **large language models**, **agentic AI framewo
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="35" height="35"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/goparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/fiestparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hmmparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/sleepyparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="35" height="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/starwarparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/confettiparrot.gif" width="35" height="35"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/explodyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkbeerparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/margaritaparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hdrparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/aussie.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pizzaparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/shufflepartyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/blondesassyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sadparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/slowparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/icecreamparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sleepyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/bluescluesparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/harrypotterparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/oldtimeyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/congalineparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/copparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/slomoparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/fiestparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/chillparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sassyparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/happyhourparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/upvoteparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/starwarparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hmmparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/goparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="35" height="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="35" height="35"/>
 </p>
 
 <p align="center">
