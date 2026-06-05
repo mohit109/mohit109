@@ -14,31 +14,24 @@
 
 ## 👤 About Me
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
 I am a **Data Scientist** specializing in building **scalable AI systems in production**. I work across the full ML lifecycle — from research and experimentation to deploying robust pipelines that serve real-world traffic at scale.
 
 I operate at the intersection of **large language models**, **agentic AI frameworks**, and **cloud infrastructure** — turning cutting-edge research into reliable, production-grade systems.
 
 🎯 **Current Focus**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🤖 LLMs in production</b><br/>
-      <sub>Fine-tuning, RAG, evaluation pipelines</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🕸️ Agentic AI frameworks</b><br/>
-      <sub>LangChain, LangGraph, AutoGen, CrewAI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>☁️ Multi-cloud MLOps</b><br/>
-      <sub>AWS, Azure, GCP — scalable ML infra</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>⚡ Scalable AI systems</b><br/>
-      <sub>Distributed training, serving, monitoring</sub>
+| | |
+|---|---|
+| **🤖 LLMs in production**<br/><sub>Fine-tuning, RAG, evaluation pipelines</sub> | **🕸️ Agentic AI frameworks**<br/><sub>LangChain, LangGraph, AutoGen, CrewAI</sub> |
+| **☁️ Multi-cloud MLOps**<br/><sub>AWS, Azure, GCP — scalable ML infra</sub> | **⚡ Scalable AI systems**<br/><sub>Distributed training, serving, monitoring</sub> |
+
+  </td>
+    <td valign="center" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%" alt="Developer at work"/>
     </td>
   </tr>
 </table>
